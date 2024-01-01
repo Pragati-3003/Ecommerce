@@ -1,0 +1,14 @@
+
+
+.carousel-container {
+    width: 98%;
+    margin: auto;
+    height: 100%;
+  }
+  
+  .carousel-image {
+    width: 100vw;
+    height: 300px;
+    border-radius: 5px;
+  }
+  
